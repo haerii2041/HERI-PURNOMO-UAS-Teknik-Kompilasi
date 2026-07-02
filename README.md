@@ -81,7 +81,7 @@ L2:
 ## Struktur Project
 
 ```text
-HERI PURNOMO-UAS-Teknik-Kompilasi/
+HERI-PURNOMO-UAS-Teknik-Kompilasi/
 │
 ├── mini_compiler_ifelse.py
 ├── dokumentasi.md
